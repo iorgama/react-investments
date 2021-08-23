@@ -1,4 +1,4 @@
-# react-countries
+# react-investments
 
 Trabalho prático realizado durante o bootcamp de React do IGTI
 
